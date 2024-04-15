@@ -1,2 +1,4 @@
 # TechComm-proj1
  
+when making the site i went with the idea of making it as simple as possible now this has its ups and downs as at a certain point it may be too simple, the parts that fit into this are really the sidebar, topnav along with the background and the rest of the site so if given more time perhaps i would have the topnav be white and black with some light color being an accent maybe a light green or something.
+Another thing that would be added are different fonts a bold one for the title and a sans serif one for the rest of the page and perhaps icons on the topnav for each page along with a favicon that changes depending on the page you are on
