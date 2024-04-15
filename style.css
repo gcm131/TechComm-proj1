@@ -1,0 +1,38 @@
+
+nav {
+	color: white;
+    padding: 12px;
+	text-align: left;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: inherit;
+    font-weight: bold;
+    font-size: 110%;
+}
+main{
+	padding-left: 200px;
+	width: 80%;
+}
+h1{
+text-align: center;
+}
+
+aside{
+	margin-top: -30px;
+    margin-left: -180px;
+    position: absolute;
+    width: 170px;
+	color:#450101
+}
